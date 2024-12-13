@@ -1,1 +1,1 @@
-# Este es nuestro Sistema de Gestión Bancaria
+# Sistema de Gestión Bancaria
